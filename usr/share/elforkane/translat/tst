@@ -1,0 +1,20 @@
+total 28896
+-rw-r--r-- 1 kovax kovax 2424832 2011-12-15 14:48 bn_bengali.db
+-rw-r--r-- 1 kovax kovax 1015808 2011-12-15 14:48 bs_korkut.db
+-rw-r--r-- 1 kovax kovax 1212416 2011-12-15 14:48 de_bubenheim.db
+-rw-r--r-- 1 kovax kovax 1048576 2011-12-15 14:48 es_cortes.db
+-rw-r--r-- 1 kovax kovax 1179648 2011-12-15 14:48 ha_gumi.db
+-rw-r--r-- 1 kovax kovax 1409024 2011-12-15 14:48 id_indonesian.db
+-rw-r--r-- 1 kovax kovax 1081344 2011-12-15 14:48 it_piccardo.db
+-rw-r--r-- 1 kovax kovax 1245184 2011-12-15 14:48 nl_keyzer.db
+-rw-r--r-- 1 kovax kovax 1671168 2011-12-15 14:51 pr_tagi.db
+-rw-r--r-- 1 kovax kovax 1703936 2011-12-15 14:48 ru_kuliev.db
+-rw-r--r-- 1 kovax kovax 1245184 2011-12-15 14:48 sq_nahi.db
+-rw-r--r-- 1 kovax kovax 1048576 2011-12-15 14:48 sw_barwani.db
+-rw-r--r-- 1 kovax kovax 3604480 2011-12-15 14:48 ta_tamil.db
+-rw-r--r-- 1 kovax kovax 2949120 2011-12-24 13:19 th_thai.db
+-rw-r--r-- 1 kovax kovax 1245184 2011-12-15 14:48 tr_diyanet.db
+-rw-rw-r-- 1 kovax kovax       0 2012-04-28 15:02 tst
+-rw-r--r-- 1 kovax kovax 1703936 2011-12-15 14:48 ur_jalandhry.db
+-rw-r--r-- 1 kovax kovax 2785280 2011-12-15 14:48 uz_sodik.db
+-rw-r--r-- 1 kovax kovax 1015808 2011-12-15 14:48 zh_jian.db
